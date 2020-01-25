@@ -1,0 +1,12 @@
+@import "../../sass/base/constants";
+
+.mod_header {
+	margin-bottom: 30px;
+
+	h1 {
+		font-size: 45px;
+		margin: 0 auto;
+		text-align: center;
+		color: $color_ship_gray;
+	}
+}

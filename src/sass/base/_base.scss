@@ -1,0 +1,13 @@
+body {
+	font-family: 'Montserrat', Arial;
+	background-color: $color_froly;
+}
+
+:focus {
+	outline: none;
+	border: none
+}
+
+main {
+	padding-top: 70px;
+}
